@@ -6,6 +6,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ### [Course Project](project/README.md)
 
+ADAM MAKING EDIT 2.00
+
 Monday | Wednesday
 --- | ---
 6/1: [Introduction to Data Science](#class-1-introduction-to-data-science) | 6/3: [Command Line and Version Control](#class-2-command-line-and-version-control)
