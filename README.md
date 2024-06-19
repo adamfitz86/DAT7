@@ -2,6 +2,8 @@
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/washington-dc/) in Washington, DC (6/1/15 - 8/12/15).
 
+THIS IS ME ADDING SOME TEXT 1.00
+
 **Instructor:** Kevin Markham ([Data School blog](http://www.dataschool.io/), [email newsletter](http://www.dataschool.io/subscribe/), [YouTube channel](https://www.youtube.com/user/dataschool))
 
 ### [Course Project](project/README.md)
